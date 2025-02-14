@@ -9,31 +9,6 @@
 
 A Senior Full Stack Software Engineer with over 10 years of experience in web and mobile app development. Highly skilled in managing the entire software development lifecycle, from design and architecture to coding, testing, and deployment (CI/CD). Proficient in building both front-end and back-end solutions using JavaScript, React, React Native, Vue, Angular, TypeScript, Node, Python, and Ruby on Rails. Experienced in designing SQL and NoSQL databases and knowledgeable about cloud platforms like AWS and Azure. Well-versed in unit and end-to-end testing and software security best practices.
 
-⭐Front-End Development
-＊Web Frameworks/Libraries: React.js, React Native, Angular, Next.js, Vue.js/Nuxt.js
-＊State Management: Redux / Saga, Redux / Thunk
-＊Languages: JavaScript, TypeScript, HTML, HTML5, CSS, SCSS
-＊Styling Frameworks: Material-UI, Tailwind CSS
-＊Tools: Webpack
-⭐Mobile Development
-＊Cross-Platform Frameworks: React Native, Flutter
-＊Native Development: Android (Java & Kotlin), iOS (Swift, SWiftUI)
-⭐Back-End Development
-＊Languages & Frameworks: Java (Spring Boot), Node.js, Express.js, Python, Ruby on Rails, PHP
-＊APIs: Rest API, GraphQL
-＊Data Structures & Algorithms
-⭐Databases
-＊NoSQL: MongoDB, Firebase
-＊SQL: MySQL, PostgreSQL, SQL, pgAdmin
-⭐Cloud & DevOps
-＊Cloud Platforms: AWS, Heroku
-＊CI/CD Tools: Git, Azure DevOps, Heroku
-＊Methodologies: Agile (Scrum, Kanban), Jira
-⭐Testing
-＊Testing Tools: Jest, Unit Test
-⭐Version Control
-＊Tools: Git, GitLab, Bitbucket
-
 ### - Languages and Tools...
 
 <table>
