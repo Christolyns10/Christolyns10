@@ -64,28 +64,28 @@ while (me.isAlive()) {
  <tr>
     <td>
     <p align="center">
-      <img src="https://github.com/Christolyns10/Christolyns10/blob/main/images/FqkzPgzaEAAzTph.jpeg" width="100%" />
-      <p align="center"><a href="https://123helpapp.com/">123 Help App: Home Emergency Service Finder</a></p>
+      <img src="https://github.com/Christolyns10/Christolyns10/blob/main/images/eddii.png" width="100%" />
+      <p align="center"><a href="https://www.eddiihealth.com/">eddii: React Native</a></p>
     </p>
   </td>
   <td>
     <p align="center">
-      <img src="https://github.com/Christolyns10/Christolyns10/blob/main/images/FqkzPg0aYAMTxNx.jpeg" width="100%" />
- 			<p align="center"><a href="https://yourplayerspal.com/">Players Pal: Casino System</a><p> 
+      <img src="https://github.com/Christolyns10/Christolyns10/blob/main/images/food-delivery.png" width="100%" />
+ 			<p align="center"><a href="https://yourplayerspal.com/">Food-Delivery: React Native</a><p> 
     </p>
   </td>
  </tr>
  <tr>
     <td>
       <p align="center">
-        <img src="https://github.com/Christolyns10/Christolyns10/blob/main/images/watc.png" width="100%" />
-        <p align="center"><a href="https://watc.ee/">WACT: Landing page design</a></p>
+        <img src="https://github.com/Christolyns10/Christolyns10/blob/main/images/factory.png" width="100%" />
+        <p align="center"><a href="https://factorypure.com/">FactoryPure: React.js</a></p>
       </p>
     </td>
     <td>
       <p align="center">
-        <img src="https://github.com/Christolyns10/Christolyns10/blob/main/images/payrexx.png" width="100%" />
-        <p align="center"><a href="https://payrexx.com/en/">Payrexx: Nuxt.js project</a></p>
+        <img src="https://github.com/Christolyns10/Christolyns10/blob/main/images/education.png" width="100%" />
+        <p align="center"><a href="https://payrexx.com/en/">Education: React.js</a></p>
       </p>
     </td>
   </tr>
