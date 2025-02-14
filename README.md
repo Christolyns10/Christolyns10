@@ -85,7 +85,7 @@ while (me.isAlive()) {
     <td>
       <p align="center">
         <img src="https://github.com/Christolyns10/Christolyns10/blob/main/images/education.png" width="100%" />
-        <p align="center"><a href="https://payrexx.com/en/">Education: React.js</a></p>
+        <p align="center">Education: React.js</p>
       </p>
     </td>
   </tr>
