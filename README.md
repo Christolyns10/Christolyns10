@@ -71,7 +71,7 @@ while (me.isAlive()) {
   <td>
     <p align="center">
       <img src="https://github.com/Christolyns10/Christolyns10/blob/main/images/food-delivery.png" width="100%" />
- 			<p align="center"><a href="https://yourplayerspal.com/">Food-Delivery: React Native</a><p> 
+ 			<p align="center"><a href="https://github.com/Christolyns10/Christolyns10">Food-Delivery: React Native</a><p> 
     </p>
   </td>
  </tr>
@@ -85,7 +85,7 @@ while (me.isAlive()) {
     <td>
       <p align="center">
         <img src="https://github.com/Christolyns10/Christolyns10/blob/main/images/education.png" width="100%" />
-        <p align="center">Education: React.js</p>
+        <p align="center"><a href="https://github.com/Christolyns10/Christolyns10">Education: React.js</a></p>
       </p>
     </td>
   </tr>
