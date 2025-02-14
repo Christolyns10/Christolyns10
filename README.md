@@ -1,4 +1,4 @@
-[<img src="https://komarev.com/ghpvc/?username=ChebacGrigore" alt="ChebacGrigore's profile views" align="right" />](<a href="https://github.com/Meghna-DAS/github-profile-views-counter">)
+[<img src="https://komarev.com/ghpvc/?username=Christolyns10" alt="Christolyns10's profile views" align="right" />](<a href="https://github.com/Meghna-DAS/github-profile-views-counter">)
 
 <br/>
 <div align="center" >
@@ -73,13 +73,13 @@ while (me.isAlive()) {
  <tr>
     <td>
     <p align="center">
-      <img src="https://github.com/ChebacGrigore/ChebacGrigore/blob/main/images/FqkzPgzaEAAzTph.jpeg" width="100%" />
+      <img src="https://github.com/Christolyns10/Christolyns10/blob/main/images/FqkzPgzaEAAzTph.jpeg" width="100%" />
       <p align="center"><a href="https://123helpapp.com/">123 Help App: Home Emergency Service Finder</a></p>
     </p>
   </td>
   <td>
     <p align="center">
-      <img src="https://github.com/ChebacGrigore/ChebacGrigore/blob/main/images/FqkzPg0aYAMTxNx.jpeg" width="100%" />
+      <img src="https://github.com/Christolyns10/Christolyns10/blob/main/images/FqkzPg0aYAMTxNx.jpeg" width="100%" />
  			<p align="center"><a href="https://yourplayerspal.com/">Players Pal: Casino System</a><p> 
     </p>
   </td>
@@ -87,13 +87,13 @@ while (me.isAlive()) {
  <tr>
     <td>
       <p align="center">
-        <img src="https://github.com/ChebacGrigore/ChebacGrigore/blob/main/images/watc.png" width="100%" />
+        <img src="https://github.com/Christolyns10/Christolyns10/blob/main/images/watc.png" width="100%" />
         <p align="center"><a href="https://watc.ee/">WACT: Landing page design</a></p>
       </p>
     </td>
     <td>
       <p align="center">
-        <img src="https://github.com/ChebacGrigore/ChebacGrigore/blob/main/images/payrexx.png" width="100%" />
+        <img src="https://github.com/Christolyns10/Christolyns10/blob/main/images/payrexx.png" width="100%" />
         <p align="center"><a href="https://payrexx.com/en/">Payrexx: Nuxt.js project</a></p>
       </p>
     </td>
