@@ -4,19 +4,35 @@
 <div align="center" >
   <img align="center" style="width:96%" src="visionnaire-linguagens-de-programacao_14045_img.jpg?raw=true" style = "width: -webkit-fill-available;"/>
   <br><br>
-  <h1>Hello Everyone <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px"></h1>
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Senior+React/React+Native,+AI,+Web3+developer;)](https://git.io/typing-svg)
-
+  <h1>Senior Software Developer<img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px"></h1>
 </div>
 
-With 5+ years of full-stack web and mobile app development experience for global businesses, I offer the technical expertise you are seeking for your web and mobile developer position advertised on IT.
+A Senior Full Stack Software Engineer with over 10 years of experience in web and mobile app development. Highly skilled in managing the entire software development lifecycle, from design and architecture to coding, testing, and deployment (CI/CD). Proficient in building both front-end and back-end solutions using JavaScript, React, React Native, Vue, Angular, TypeScript, Node, Python, and Ruby on Rails. Experienced in designing SQL and NoSQL databases and knowledgeable about cloud platforms like AWS and Azure. Well-versed in unit and end-to-end testing and software security best practices.
 
-As a developer focused on customer satisfaction, I manage all aspects of web and mobile development-from concept to requirements definition, design, development, launch, maintenance and user support.
-I enjoy the client-facing role and working closely with members to produce high-quality deliverables.
-
-If my skills match your requirements, please contact me. 
-Thanks.
+⭐Front-End Development
+＊Web Frameworks/Libraries: React.js, React Native, Angular, Next.js, Vue.js/Nuxt.js
+＊State Management: Redux / Saga, Redux / Thunk
+＊Languages: JavaScript, TypeScript, HTML, HTML5, CSS, SCSS
+＊Styling Frameworks: Material-UI, Tailwind CSS
+＊Tools: Webpack
+⭐Mobile Development
+＊Cross-Platform Frameworks: React Native, Flutter
+＊Native Development: Android (Java & Kotlin), iOS (Swift, SWiftUI)
+⭐Back-End Development
+＊Languages & Frameworks: Java (Spring Boot), Node.js, Express.js, Python, Ruby on Rails, PHP
+＊APIs: Rest API, GraphQL
+＊Data Structures & Algorithms
+⭐Databases
+＊NoSQL: MongoDB, Firebase
+＊SQL: MySQL, PostgreSQL, SQL, pgAdmin
+⭐Cloud & DevOps
+＊Cloud Platforms: AWS, Heroku
+＊CI/CD Tools: Git, Azure DevOps, Heroku
+＊Methodologies: Agile (Scrum, Kanban), Jira
+⭐Testing
+＊Testing Tools: Jest, Unit Test
+⭐Version Control
+＊Tools: Git, GitLab, Bitbucket
 
 ### - Languages and Tools...
 
